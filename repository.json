@@ -1,5 +1,5 @@
 {
-  "name": "Modbus Proxy Repository",
-  "url": "https://github.com/Akulatraxas/ha-modbusproxy",
-  "maintainer": "Julian Jost <julian@jost-online.eu>"
+  "name": "MG Modbus Proxy Repository",
+  "url": "https://github.com/mgwolters/mg-modbusproxy",
+  "maintainer": "MG Patched for register 44000 with Modbus for Marstek Venus E 3"
 }
